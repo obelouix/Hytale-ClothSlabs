@@ -1,0 +1,20 @@
+{
+  "Group": "Obelouix",
+  "Name": "ClothSlabs",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "Obelouix",
+      "Email": "",
+      "Url": "http://github.com/obelouix"
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
